@@ -12,8 +12,8 @@ public class Counter {
 		count = 0;
 	}
 	
-	public void increment() {
-		count++;
+	public void increments() {
+		count++++;
 	}
 	
 	public void decrement() {
